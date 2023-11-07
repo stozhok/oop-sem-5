@@ -11,6 +11,7 @@
     <modules>
         <module>labs/lab_1</module>
         <module>labs/lab_1</module>
+        <module>problems/untitled</module>
     </modules>
 
     <properties>
