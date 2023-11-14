@@ -28,20 +28,16 @@ public class ThreadHandlerTest {
         ThreadHandler threadHandler = new ThreadHandler();
         threadHandler.printThreadsInfo(rootGroup);
 
-        // Simulate waiting for a while (adjust this time if needed)
         try {
             Thread.sleep(2000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
 
-        // Replace this with the expected output
-        String expectedOutput = "Root\n main"; // Адаптированный ожидаемый вывод
+        String expectedOutput = "Root\n main";
 
-        // Trim the actual and expected output for comparison
         String actualOutput = outputStream.toString().trim();
 
-        // Check if the actual output equals the expected output
         assertEquals(expectedOutput, actualOutput);
     }
 }

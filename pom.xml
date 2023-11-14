@@ -13,6 +13,7 @@
         <module>labs/lab_1</module>
         <module>problems/untitled</module>
         <module>problems/Fourth</module>
+        <module>problems/Third</module>
     </modules>
 
     <properties>
