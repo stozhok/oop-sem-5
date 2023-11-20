@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<planes>
+    <plane>
+        <model>F-15 Eagle</model>
+        <origin>USA</origin>
+        <specifications>
+            <type>FIGHTER</type>
+            <seatCount>1</seatCount>
+            <missileCount>8</missileCount>
+        </specifications>
+        <hasRadar>true</hasRadar>
+    </plane>
+
+    <plane>
+        <model>Rafale</model>
+        <origin>France</origin>
+        <specifications>
+            <type>FIGHTER</type>
+            <seatCount>1</seatCount>
+            <missileCount>8</missileCount>
+        </specifications>
+        <hasRadar>true</hasRadar>
+    </plane>
+
+    <plane>
+        <model>JAS 39 Gripen</model>
+        <origin>Sweden</origin>
+        <specifications>
+            <type>FIGHTER</type>
+            <seatCount>1</seatCount>
+            <missileCount>6</missileCount>
+        </specifications>
+        <hasRadar>true</hasRadar>
+    </plane>
+</planes>
