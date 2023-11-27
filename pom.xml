@@ -18,6 +18,7 @@
         <module>labs/lab_2</module>
         <module>problems/Second</module>
         <module>problems/seventh</module>
+        <module>problems/sixth</module>
     </modules>
 
     <properties>
