@@ -21,6 +21,7 @@
         <module>problems/sixth</module>
         <module>problems/nineth</module>
         <module>problems/tenth</module>
+        <module>problems/eighth</module>
     </modules>
 
     <properties>
